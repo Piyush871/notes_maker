@@ -1,0 +1,15 @@
+#url
+{
+    min-width: 400px;
+    min-height: 40px;
+    max-width: fit-content;
+    max-height: fit-content; 
+}
+
+#topics
+{
+    min-width: 400px;
+    min-height: 300px;
+    max-width: fit-content;
+    max-height: fit-content;
+}
